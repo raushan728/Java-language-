@@ -23,3 +23,8 @@ Hi! 👋 I'm currently learning **Java** and documenting my progress in this rep
    ```sh
    git clone https://github.com/your-username/java-learning.git
    cd java-learning
+
+Compile and run Java programs:
+
+javac MyProgram.java
+java MyProgram
