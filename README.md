@@ -1,5 +1,6 @@
 # Java-language-
 
+
 # 🚀 My Java Learning Journey  
 
 Hi! 👋 I'm currently learning **Java** and documenting my progress in this repository. This repository contains my practice code, notes, and small projects as I explore Java programming.  
@@ -24,7 +25,21 @@ Hi! 👋 I'm currently learning **Java** and documenting my progress in this rep
    git clone https://github.com/your-username/java-learning.git
    cd java-learning
 
-Compile and run Java programs:
+3. Compile and run Java programs:
 
 javac MyProgram.java
 java MyProgram
+
+
+
+📚 Resources I'm Using
+
+Java Documentation
+
+W3Schools Java Tutorial
+
+JavaTPoint
+
+LeetCode Java Challenges.
+
+___
