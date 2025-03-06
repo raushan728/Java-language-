@@ -25,7 +25,7 @@ Hi! 👋 I'm currently learning **Java** and documenting my progress in this rep
    git clone https://github.com/your-username/java-learning.git
    cd java-learning
 
-3. Compile and run Java programs:
+3. Compile and run Java programs
 
 javac MyProgram.java
 java MyProgram
