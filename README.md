@@ -32,7 +32,7 @@ java MyProgram
 
 
 
-📚 Resources I'm Using
+📚 Resources I'm Using:
 
 [Java Documentation](https://docs.oracle.com/en/java/)
 
