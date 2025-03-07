@@ -34,8 +34,11 @@ java MyProgram
 
 📚 Resources I'm Using
 📚 [Java Documentation](https://docs.oracle.com/en/java/)
+
 [W3Schools Java Tutorial](https://www.w3schools.com/java/)
+
 [JavaTPoint](https://www.javatpoint.com/java-tutorial)
+
 [LeetCode Java Challenges](https://leetcode.com/problemset/all/?topicSlugs=java)
 
 ___
