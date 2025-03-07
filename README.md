@@ -33,7 +33,8 @@ java MyProgram
 
 
 📚 Resources I'm Using
-📚 [Java Documentation](https://docs.oracle.com/en/java/)
+
+[Java Documentation](https://docs.oracle.com/en/java/)
 
 [W3Schools Java Tutorial](https://www.w3schools.com/java/)
 
