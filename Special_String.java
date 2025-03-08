@@ -57,7 +57,7 @@ public class Special_String {
 //Will return the index of which string/char is given.  
      //System.out.println(name.indexOf("au"));
 //From index
-    //System.out.println(name.indexOf("a",4));  
+   // System.out.println(name.indexOf("a",4));  
 
 
 //returning index from last string.
