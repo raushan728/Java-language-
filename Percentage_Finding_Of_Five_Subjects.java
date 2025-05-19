@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class finding_percentage {
+public class Percentage_Finding_Of_Five_Subjects {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
