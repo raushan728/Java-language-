@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class Pattern {
     // Method to print a pattern of stars
     public static void printPattern(int n) {
@@ -16,6 +15,6 @@ public class Pattern {
         int n = sc.nextInt();
         System.out.println("Pattern of stars:");
         printPattern(n);
-        
+        sc.close();
     }
 }
