@@ -43,3 +43,35 @@ java MyProgram
 [LeetCode Java Challenges](https://leetcode.com/problemset/all/?topicSlugs=java)
 
 ___
+
+---
+
+## ⚠️ Important Note for Cloning or Running Files
+
+In Java, the filename **must match** the public class name inside the file.  
+This project follows a pattern like:
+
+```bash
+Filename: 48_Handling_Specific_Exceptions.java
+Class:   public class Handling_Specific_Exceptions
+```
+However, due to renaming files with serial numbers for learning order, some files may show a mismatch between the filename and the public class name.
+
+### 🛠 How to Fix the Error:
+If you get an error like:
+```
+Error: Main method not found in class ...
+```
+
+### Follow these steps:
+1. Open the file causing the error.
+2. Rename the class to match the filename (excluding .java), or rename the file to match the class.
+-Example:
+  -If file name is 48_Handling_Specific_Exceptions.java, then class name should be:
+   ```
+   public class 48_Handling_Specific_Exceptions // ❌ Invalid (cannot start with number)
+   public class Handling_Specific_Exceptions    // ✅ Correct (rename file instead)
+   ```
+3. ✅ Recommended: Rename the file to match the class name instead of modifying the code.
+-So 48_Handling_Specific_Exceptions.java → Handling_Specific_Exceptions.java
+#### 💡 Tip: You can run files easily using any IDE like VS Code, IntelliJ IDEA, or online compilers. Just make sure file name and class name match.
