@@ -69,9 +69,11 @@ Error: Main method not found in class ...
 -Example:
   -If file name is 48_Handling_Specific_Exceptions.java, then class name should be:
    ```
+   
    public class 48_Handling_Specific_Exceptions // ❌ Invalid (cannot start with number)
    public class Handling_Specific_Exceptions    // ✅ Correct (rename file instead)
    ```
+   
 3. ✅ Recommended: Rename the file to match the class name instead of modifying the code.
 -So 48_Handling_Specific_Exceptions.java → Handling_Specific_Exceptions.java
 #### 💡 Tip: You can run files easily using any IDE like VS Code, IntelliJ IDEA, or online compilers. Just make sure file name and class name match.
